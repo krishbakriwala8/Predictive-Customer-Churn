@@ -1,0 +1,8 @@
+# Ignore virtual environments, outputs, and dataset files
+venv/
+.env
+__pycache__/
+outputs/
+.ipynb_checkpoints/
+.DS_Store
+data/raw/online_retail_ii.xlsx
